@@ -1,3 +1,3 @@
 # edTipodeDados
-## Segunda aula de Estrutura de dados
-### Dupla: Bruna e Iago
+## *Segunda aula de Estrutura de dados*
+### **Dupla: Bruna e Iago**
